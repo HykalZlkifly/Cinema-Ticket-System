@@ -17,7 +17,7 @@ This project is a console-based cinema ticket management system developed using 
 - Input validation
 
 ## Language Used
-C++ (or Java / Python)
+C++ 
 
 ## System Design
 Each module is separated into different functions to ensure maintainability and scalability.
